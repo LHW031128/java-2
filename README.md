@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 이효원 202230130 <br>
 
 03/20 3주차
@@ -69,3 +70,4 @@ class ForDescription
     
 </body>
 </html>
+=======
